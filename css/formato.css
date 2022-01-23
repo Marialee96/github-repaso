@@ -12,3 +12,8 @@ body {
     font-size: 15pt;
     color: thistle;
 }
+
+#header {
+    font-size: 20pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
