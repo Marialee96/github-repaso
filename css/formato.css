@@ -17,3 +17,7 @@ body {
     font-size: 20pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#footer {
+    color: yellow;
+}
