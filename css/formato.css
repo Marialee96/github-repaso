@@ -1,0 +1,14 @@
+body {
+    background: rgba(255, 99, 71, 0.767);
+}
+
+#container {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 15pt;
+    color: thistle;
+}
